@@ -8286,7 +8286,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 8
   jumpForce: 60
-  doubleJumpForce: 40
   groundLayer:
     serializedVersion: 2
     m_Bits: 1
@@ -18907,7 +18906,7 @@ SpriteRenderer:
   m_Size: {x: 2.1367188, y: 1.8789062}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!95 &1126557507

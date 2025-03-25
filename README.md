@@ -1,6 +1,9 @@
 # Shard-of-Aether
 Play: https://madhurrathod.itch.io/shards-of-aether-webgl-build
+
 Platform: WebGL, MacOS, Windows
+
+Game Engine: Unity 6
 
 This game is created by a team of three:
 1. Yash Dhanawde : https://github.com/YashD007
